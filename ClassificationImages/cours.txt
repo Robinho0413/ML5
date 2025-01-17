@@ -1,0 +1,7 @@
+Problèmes :
+- tailles et sources données entrainements
+- entrainement pour reconnaitre 1 élément
+
+Problemes modeles auto-entrainées :
+- images "vides"
+- nombre minimal d'images d'entrainement ?
